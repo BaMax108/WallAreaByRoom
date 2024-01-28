@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+	<RevitAddIns>
+		<AddIn Type="Application">
+			<Name>Wall area by room</Name>
+			<Assembly>WallAreaByRoom.dll</Assembly>
+			<FullClassName>WallAreaByRoom.Application</FullClassName>
+			<AddInId>16143E98-3A18-45BB-ADCA-A23FD1FA4942</AddInId>
+			<VendorId>CGN_BIM</VendorId>
+			<VendorDescription>CGN_BIM Department</VendorDescription>
+		</AddIn>
+	</RevitAddIns>
+
+
+
